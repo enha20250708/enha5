@@ -10,4 +10,4 @@
 
 这些日本成人影视平台提供了多样的分类，如按演员、剧情以及类型等，让用户能更方便地筛选和观看。每个视频都有详尽的资料，包括时长、演员信息以及清晰度等，帮助用户快速找到他们感兴趣的内容。平台支持高清视频流畅播放，并根据网络环境智能调整画质，确保无延迟的观影体验。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/enha20250708/enha5 ）</span>
